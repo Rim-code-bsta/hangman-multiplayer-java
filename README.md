@@ -85,6 +85,7 @@ Unlike a traditional Hangman game, the visual design is inspired by Moroccan roy
 ## 🔄 System Architecture Diagram
 
 [Mermaid Diagram representative](https://drive.google.com/file/d/1vps23p5Zq5qRzibgVckpGOB7UACFQZsd/view?usp=sharing)
++
 [Mermaid Diagram 2nd](https://drive.google.com/file/d/1mTc5WQ-bI2QyRRXSyg0SaXFtOR1h6Xpb/view?usp=sharing)
 ---
 
